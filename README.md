@@ -6,7 +6,7 @@ age=(14)
 print("age")
 address=("kvareli discrit vilage chikaani")
 print("address")
-
+ 
 
 
 
